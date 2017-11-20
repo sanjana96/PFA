@@ -1,9 +1,9 @@
 import gc
 import MySQLdb
-db_host = "localhost"
+db_host = "127.0.0.1"
 db_name = 'pfa'
-db_user = 'pfa'
-db_pass = '123456'
+db_user = 'root'
+db_pass = ''
 user_table = 'user'
 debt_table = 'debt'
 transaction_table = 'transaction'

@@ -25,4 +25,4 @@ def registerUser(username, password):
         dbm.DBclose(c, conn)
         return False
 
-def updateIncome(username,)
+#def updateIncome(username,)
